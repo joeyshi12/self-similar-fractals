@@ -3,7 +3,7 @@ A collection of self similar fractals that are drawn through generative recursio
 [In progress]
 
 - [x] Sierpinski's Triangle
-- [ ] Sierpinski's Carpet
+- [x] Sierpinski's Carpet
 - [ ] Von Koch Curve
 - [ ] Lévy Curve
 - [ ] Dragon Curve
